@@ -1,2 +1,2 @@
 # chocofactory
-This is chocofactory repository
+This repository is moved to [chocomintapp/chocofactory](https://github.com/chocomintapp/chocofactory)
